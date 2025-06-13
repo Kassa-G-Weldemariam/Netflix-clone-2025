@@ -8,7 +8,7 @@
    background-color: transparent;
    height: 10vh;
    color: white;
-   transition: all 0.5%;
+   transition: all 0.5s;
    transition-timing-function: ease-in;
    z-index: 1;
 }
