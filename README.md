@@ -7,7 +7,7 @@ A responsive frontend clone of the Netflix landing page built to practice modern
 ## 🚀 Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript (React)
 
 ## 🎯 Features
 - Responsive navigation bar
